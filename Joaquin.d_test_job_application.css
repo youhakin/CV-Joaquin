@@ -1,15 +1,5 @@
 
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-
-<head>
-  <meta charset="utf-8">
-  <title>Doc</title>
-
-
-
-  <style media="screen">
-    body {
+body {
       background-color: gray;
     }
 
@@ -24,7 +14,7 @@
 
     p.Blue {
       color: blue;
-    
+
     }
 
 
@@ -62,34 +52,3 @@
     #Pink {
       color: pink;
     }
-
-   
-  </style>
-</head>
-
-<body>
-
-
-
-
-
-  <article>
-    <p class="Green">Green</p>
-    <p class="Blue">Blue</p>
-    <div>
-      <p class="Red Centered">Red centered</p>
-    </div>
-    <p class="Yellow">Yellow</p>
-    <p class="Green">Green</p>
-    <div class="hidden">
-      <p>Hidden</p>
-    </div>
-    <p class="Green">Green</p>
-    <p Class="Green">Green</p>
-    <p id="Purple">Purple</p>
-    <p id="Pink">Pink</p>
-    <hr>
-  </article>
-</body>
-
-</html>
